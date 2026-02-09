@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Building%20the%20Future%20on%20Solana&fontSize=40&fontAlignY=40&desc=Rust%20%7C%20TypeScript%20%7C%20DePIN&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14F195&height=280&section=header&text=Building%20the%20Future%20on%20Solana&fontSize=40&fontAlignY=40&desc=Rust%20%7C%20TypeScript%20%7C%20DePIN&descAlignY=60&descAlign=50&fontColor=000000" alt="Header" />
 
   # Hi there, I'm flow10ng 👋
 
